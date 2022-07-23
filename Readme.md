@@ -5,7 +5,7 @@ This is dedicated repository only for reports created using Tableau.
 
 
 ## Hexabin Chart
-[Hexabin Chart]("./Hexabin Chart/US Population Density - Hexabin")
+[Hexabin Chart]("https://github.com/VigneshwaraChinnadurai/Tableau/blob/master/Hexabin%20Chart/US%20Population%20Density%20-%20Hexabin.png")
 
 ## Likert Chart
 [Likert Chart]("./Likert Chart/Restaurant Review - Likert Scale - 1")
